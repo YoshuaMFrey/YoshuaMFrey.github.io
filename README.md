@@ -26,11 +26,13 @@ Da die Modelle viele interessante Details enthalten, hielt ich es für angebrach
 [[Modellübersicht]](<https://github.com/YoshuaMFrey/YoshuaMFrey.github.io/tree/main/3D%20Modelle>)  
 
 Rahmen der Drohne aus dem unten genannten Projekt  
-[[STL]](<3D Modelle/DroneFrame.stl>)  
-[[STEP]](<3D Modelle/DroneFrame.step>)
+[[Online-Viewer]](<https://github.com/YoshuaMFrey/YoshuaMFrey.github.io/blob/main/3D%20Modelle/DroneFrame.stl>)  
+[[STL]](<3D Modelle/DroneFrame.stl>)
+[[STEP]](<3D Modelle/DroneFrame.step>)  
 
 Solarlaterne aus dem unten beschriebenen Projekt  
-[[STL]](<3D Modelle/SolarLaterne.stl>)  
+[[Online-Viewer]](<https://github.com/YoshuaMFrey/YoshuaMFrey.github.io/blob/main/3D%20Modelle/SolarLaterne.stl>)  
+[[STL]](<3D Modelle/SolarLaterne.stl>)
 [[STEP]](<3D Modelle/SolarLaterne.step>)
 
 ## Größere Projekte
