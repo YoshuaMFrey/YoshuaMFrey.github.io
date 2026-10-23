@@ -23,6 +23,8 @@ Die meisten 3D Modelle, die zu den Projekten gehören, waren nicht gut für den 
 Im entsprechenden Ordner finden Sie jedoch zwei 3D Modelle, welche ich sowohl in Form von STL-, als auch STEP-Dateien exportiert habe.  
 Da die Modelle viele interessante Details enthalten, hielt ich es für angebracht, sie zur genaueren Betrachtung in dieser Form abzulegen.
 
+[[Modellübersicht]](<3D Modelle/>)  
+
 Rahmen der Drohne aus dem unten genannten Projekt  
 [[STL]](<3D Modelle/DroneFrame.stl>)  
 [[STEP]](<3D Modelle/DroneFrame.step>)
